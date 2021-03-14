@@ -1,0 +1,17 @@
+body {
+    padding-top: 80px;
+}
+
+.show-cart li {
+    display: flex;
+}
+
+.image {
+    margin-bottom: 20px;
+}
+
+.card-img-center {
+    width: 300px;
+    height: 300px;
+    align-self: center;
+}
